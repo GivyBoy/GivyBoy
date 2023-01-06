@@ -16,7 +16,7 @@ if __name__ == '__main__':
     me = GivyBoy()
 ```
 
-- 🌱 I’m currently a Sophomore at the University of Miami double majoring in Math (with a conc in Prob and Stats) and CS
+- 🌱 I’m currently a Sophomore at the University of Miami double majoring in Math (with a conc in Prob and Stats) and CS, with a minor in Astrophysics
 - 💞️ I'm an incoming SWE Intern (STEP) at Google for the Summer of 2023
 - 💞️ I’m passionate about applying my finance and cs knowledge to the markets to build interesting applications
 - 💞️ I lead a Quant team at the University of Miami, where we apply quantitative methods to the markets
