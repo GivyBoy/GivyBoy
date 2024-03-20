@@ -7,7 +7,7 @@ from dataclasses import dataclass
 class GivyBoy:
     name: str = "Anthony Givans"
     username: str = "GivyBoy"
-    location = "FL, USA"
+    location: str = "FL, USA"
     
     def __str__(self):
       return GivyBoy.name
