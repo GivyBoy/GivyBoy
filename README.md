@@ -7,7 +7,7 @@ from dataclasses import dataclass
 class GivyBoy:
     name: str = "Anthony Givans"
     username: str = "GivyBoy"
-    location: str = "FL, USA"
+    location: str = "VA, USA"
     
     def __str__(self):
       return GivyBoy.name
@@ -16,7 +16,7 @@ if __name__ == '__main__':
     me = GivyBoy()
 ```
 
-- 🌱 I’m currently a Senior at the University of Miami double majoring in Math (Prob and Stats) and CS, with a minor in Astrophysics
+- 🌱 I’m currently a PhD student at the George Mason University
 - SWE Intern (STEP) at Google for the Summer of 2023 and 2024 (worked on creating and e2e ML model)
 - 📫 You can reach me at anthonygivans@miami.edu OR anthonygivans876@gmail.com
 
